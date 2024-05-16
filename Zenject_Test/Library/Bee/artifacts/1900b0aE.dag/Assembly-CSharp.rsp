@@ -357,10 +357,15 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Installers/FirstSceneInstaller.cs"
 "Assets/Installers/GlobalInstaller.cs"
+"Assets/Installers/PlayerInstaller.cs"
 "Assets/Scripts/DesktopInput.cs"
+"Assets/Scripts/IDamagable.cs"
+"Assets/Scripts/IEnemyTarget.cs"
 "Assets/Scripts/IInput.cs"
 "Assets/Scripts/MobileInput.cs"
 "Assets/Scripts/MovementHandler.cs"
+"Assets/Scripts/Player.cs"
+"Assets/Scripts/PlayerConfigs.cs"
 -langversion:9.0
 
 /deterministic
